@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#para_1_button{
+    background-color: blanchedalmond;
+}
+
+#show_words_of_para_1,#show_words_of_para_2{
+    width: 100%;
+    margin: 10px;
+}
